@@ -38,6 +38,10 @@ form .display{
     display: flex;
     justify-content: flex-end;
     margin: 20px 0;
+    border:solid;
+    border-radius: 10px;
+    border-color:rgba(0, 217, 217, 0.1) ;
+    background: rgb(155, 155, 158);
 }
 
 form .display input{
